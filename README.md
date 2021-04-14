@@ -1,16 +1,4 @@
-# new-cli-project
+# TodoList
 
-## Project setup
-```
-npm install
-```
+# copyright: https://www.youtube.com/watch?v=XW_XyqPM20o&list=PLZzSdj89sCN1RJ6KYX_Vej-sCdcmAQprD&index=4
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
